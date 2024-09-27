@@ -1,8 +1,8 @@
 # Lưu trữ ảnh qua icloud sever
 # Giới thiệu
-#gioi
 
-Ứng dụng này được thiết kế để giúp người dùng lưu trữ và quản lý các tệp tin đa phương tiện như âm thanh, video, và ảnh. Mục tiêu chính của ứng dụng là cung cấp một giải pháp lưu trữ trực tuyến an toàn và tiện lợi, giúp người dùng giải phóng bộ nhớ trên thiết bị cá nhân bằng cách chuyển các dữ liệu quan trọng lên máy chủ. Điều này không chỉ giúp tiết kiệm không gian lưu trữ trên thiết bị của người dùng mà còn đảm bảo rằng dữ liệu của họ được bảo vệ và có thể truy cập dễ dàng từ bất kỳ đâu.
+
+Mạng xã hội video story là một nền tảng trực tuyến, cho phép người dùng chia sẻ các video ngắn và tương tác với nhau thông qua bình luận, thích, và chia sẻ. Ứng dụng này không chỉ cung cấp một môi trường để người dùng thể hiện sự sáng tạo mà còn giúp kết nối cộng đồng trên phạm vi toàn cầu. Sự phát triển mạnh mẽ của các nền tảng nội dung số đã thúc đẩy việc thiết kế một hệ sinh thái nơi mọi người có thể kết nối, giao lưu một cách dễ dàng và thú vị. Ứng dụng hướng tới việc tối ưu hóa trải nghiệm người dùng qua các tính năng thông minh và giao diện thân thiện.
 
 ## Chức năng
 
