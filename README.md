@@ -1,3 +1,5 @@
+##  ỨNG DỤNG MẠNG XÃ HỘI VIDEO STORY
+
 ## I. Giới thiệu chung
 
 Mạng xã hội video story là một nền tảng trực tuyến, cho phép người dùng chia sẻ các video ngắn và tương tác với nhau thông qua bình luận, thích, và chia sẻ. Ứng dụng này không chỉ cung cấp một môi trường để người dùng thể hiện sự sáng tạo mà còn giúp kết nối cộng đồng trên phạm vi toàn cầu. Sự phát triển mạnh mẽ của các nền tảng nội dung số đã thúc đẩy việc thiết kế một hệ sinh thái nơi mọi người có thể kết nối, giao lưu một cách dễ dàng và thú vị. Ứng dụng hướng tới việc tối ưu hóa trải nghiệm người dùng qua các tính năng thông minh và giao diện thân thiện.
